@@ -13,11 +13,11 @@ last_modified_at: 2021-08-23T12:00:00+09:00
 
 ---
 
-## Reference 1
+## Tutorial
 - [devinlife](https://devinlife.com/categories/)
 
-## Reference 2
+## Tutorial-2
 - [eona1301](https://eona1301.github.io/categories/)
 
-## Reference 3
+## More detailed reference
 - [ansohxxn](https://ansohxxn.github.io/blog/jekyll-directory-structure/)
