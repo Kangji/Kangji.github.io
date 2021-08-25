@@ -2,8 +2,6 @@
 title: "About me..."
 permalink: /about/
 layout: single
-toc: true
-toc_sticky: true
 
 ---
 

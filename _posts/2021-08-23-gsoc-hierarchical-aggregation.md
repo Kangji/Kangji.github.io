@@ -9,8 +9,6 @@ tags:
   - streaming
   - WAN
 permalink: /nemo-wan-hierarchical-aggregation/
-toc: true
-toc_sticky: true
 last_modified_at: 2021-08-23T23:00:00+09:00
 header:
   teaser: /assets/images/gsoc.png
