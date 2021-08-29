@@ -3,6 +3,9 @@ title: "SQL"
 layout: archive
 permalink: /database/sql/
 author_profile: true
+sidebar:
+  title: "All Posts"
+  nav: "side"
 
 ---
 

@@ -3,6 +3,9 @@ title: "Backend"
 layout: archive
 permalink: /backend/
 author_profile: true
+sidebar:
+  title: "All Posts"
+  nav: "side"
 
 ---
 

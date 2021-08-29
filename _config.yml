@@ -294,3 +294,6 @@ defaults:
       related: true
       toc: true
       toc_sticky: true
+      sidebar:
+        title: "All Posts"
+        nav: "side"

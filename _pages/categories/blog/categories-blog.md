@@ -3,6 +3,9 @@ title: "Github Blog"
 layout: archive
 permalink: /blog/
 author_profile: true
+sidebar:
+  title: "All Posts"
+  nav: "side"
 
 ---
 

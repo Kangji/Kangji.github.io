@@ -3,6 +3,9 @@ title: "Bluespec"
 layout: archive
 permalink: /bluespec/
 author_profile: true
+sidebar:
+  title: "All Posts"
+  nav: "side"
 
 ---
 

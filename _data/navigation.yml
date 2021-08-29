@@ -14,3 +14,19 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+side:
+  - title: "Backend"
+    url: /backend/
+    children:
+      - title: "Django"
+        url: /backend/django/
+  - title: "Database"
+    url: /database/
+    children:
+      - title: "SQL"
+        url: /database/sql/
+  - title: "Bluespec"
+    url: /bluespec/
+  - title: "Github Blog"
+    url: /blog/

@@ -3,6 +3,9 @@ title: "Django"
 layout: archive
 permalink: /backend/django/
 author_profile: true
+sidebar:
+  title: "All Posts"
+  nav: "side"
 
 ---
 
