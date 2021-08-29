@@ -133,3 +133,7 @@ $ mysql -u root -p
 > grant all privileges on db_name.table_name to 'username'@localhost identified by 'password';
 > show grants for 'username'@localhost;
 ```
+
+<br>
+
+모든 글: [SQL](/database/sql/) [Database](/database/)

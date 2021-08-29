@@ -85,3 +85,7 @@ $
 Shell pipe를 이용해서 그 내용을 `requirements.txt`에 담을 수 있다.
 
 `pip install`에서 `-r` 옵션을 사용하면 파일을 인자로 받아서 그 파일 안의 패키지를 명시된 버젼으로 설치할 수 있다.
+
+<br>
+
+모든 글: [Django](/backend/django/) [Backend](/Backend/)
