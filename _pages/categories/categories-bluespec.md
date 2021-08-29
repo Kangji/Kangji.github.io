@@ -1,11 +1,11 @@
 ---
-title: "Github Blog"
+title: "Bluespec"
 layout: archive
-permalink: /blog/
+permalink: /bluespec/
 author_profile: true
 
 ---
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-{% assign posts = site.categories['Github Blog'] %}
+{% assign posts = site.categories.Bluespec %}
 {% for post in posts %} {% include archive-single.html type=entries_layout %} {% endfor %}
