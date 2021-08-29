@@ -88,4 +88,4 @@ Shell pipe를 이용해서 그 내용을 `requirements.txt`에 담을 수 있다
 
 <br>
 
-모든 글: [Django](/backend/django/) [Backend](/Backend/)
+모든 글: [Django](/backend/django/) [Backend](/backend/)
