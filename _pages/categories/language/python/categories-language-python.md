@@ -1,7 +1,7 @@
 ---
-title: "Bluespec"
+title: "Python"
 layout: archive
-permalink: /bluespec/
+permalink: /language/python/
 author_profile: true
 sidebar:
   title: "All Posts"
@@ -10,5 +10,5 @@ sidebar:
 ---
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-{% assign posts = site.categories.Bluespec %}
+{% assign posts = site.categories.Python %}
 {% for post in posts %} {% include archive-single.html type=entries_layout %} {% endfor %}

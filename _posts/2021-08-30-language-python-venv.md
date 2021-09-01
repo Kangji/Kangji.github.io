@@ -2,9 +2,9 @@
 title: "Virtual Environment"
 layout: single
 categories:
-  - Backend
-  - Django
-permalink: /backend/django/0/
+  - Language
+  - Python
+permalink: /language/python/venv/
 last_modified_at: 2021-08-30T02:17:00+09:00
 
 ---

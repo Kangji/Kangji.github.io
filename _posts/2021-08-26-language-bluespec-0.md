@@ -2,10 +2,11 @@
 title: "HDL이란?"
 layout: single
 categories:
+  - Language
   - Bluespec
 tags:
   - HDL
-permalink: /bluespec/0/
+permalink: /language/bluespec/0/
 last_modified_at: 2021-08-26T19:27:12+09:00
 
 ---

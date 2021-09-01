@@ -26,7 +26,12 @@ side:
     children:
       - title: "SQL"
         url: /database/sql/
-  - title: "Bluespec"
-    url: /bluespec/
   - title: "Github Blog"
     url: /blog/
+  - title: "Language"
+    url: /language/
+    children:
+      - title: "Bluespec"
+        url: /language/bluespec/
+      - title: "Python"
+        url: /language/python/

@@ -2,10 +2,11 @@
 title: "Bluespec-Basic"
 layout: single
 categories:
+  - Language
   - Bluespec
 tags:
   - HDL
-permalink: /bluespec/2/
+permalink: /language/bluespec/2/
 last_modified_at: 2021-08-28T12:00:00+09:00
 
 ---

@@ -2,10 +2,11 @@
 title: "Bluespec이란?"
 layout: single
 categories:
+  - Language
   - Bluespec
 tags:
   - HDL
-permalink: /bluespec/1/
+permalink: /language/bluespec/1/
 last_modified_at: 2021-08-27T13:35:00+09:00
 
 ---
