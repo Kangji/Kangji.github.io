@@ -4,6 +4,8 @@ layout: single
 categories:
   - Database
   - SQL
+tags:
+  - Tutorial
 permalink: /database/sql/0/
 last_modified_at: 2021-08-29T16:37:00+09:00
 

@@ -5,7 +5,7 @@ categories:
   - Language
   - Bluespec
 tags:
-  - HDL
+  - Semantics
 permalink: /language/bluespec/1/
 last_modified_at: 2021-08-27T13:35:00+09:00
 

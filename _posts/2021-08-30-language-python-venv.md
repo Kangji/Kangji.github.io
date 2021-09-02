@@ -4,6 +4,8 @@ layout: single
 categories:
   - Language
   - Python
+tags:
+  - Tutorial
 permalink: /language/python/venv/
 last_modified_at: 2021-08-30T02:17:00+09:00
 

@@ -4,8 +4,7 @@ layout: single
 categories:
   - Github Blog
 tags:
-  - Github
-  - Blog
+  - reference
 permalink: /blog/reference/
 last_modified_at: 2021-08-23T12:00:00+09:00
 
