@@ -36,7 +36,7 @@ module mkExampleModule();
 ### Operators
 
 연산자 또한 C/C++에서 사용하는 기본 연산자들을 대부분 그대로 사용할 수 있다. 그러나, 첫 포스트에서도 말했듯이, HDL의 모든 요소는 결국 하드웨어를 나타내는 것이므로, 연산자 또한 하드웨어를 표현하는 요소이다. 예를 들어, 덧셈은 Full Adder, conditional expression은 MUX이다. 아래 그림은 `x >> 2`의 예시이다.
-![2 bit shift](/assets/images/bluespec/2_bit_shift.png)
+![2 bit shift](/assets/images/language/bluespec/2_bit_shift.png)
 
 ### Keywords
 
@@ -127,7 +127,7 @@ let y = x[3:2]; // Bit#(2) y = 2'b11
 
 Expression과 statement는 아주 간단한 형태의 combinational circuit이다.
 아래 그림을 보면 바로 이해가 될 것이다.
-![simple expression](/assets/images/bluespec/simple_expression.png)
+![simple expression](/assets/images/language/bluespec/simple_expression.png)
 
 ### Everything is Static
 

@@ -50,7 +50,7 @@ endmodule
 ```
 
 Module은 state, internal behavior, method 등으로 이루어져 있다.
-![module diagram](/assets/images/bluespec/module_diagram.png)
+![module diagram](/assets/images/language/bluespec/module_diagram.png)
 
 ### Method
 
