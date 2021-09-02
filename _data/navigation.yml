@@ -35,5 +35,7 @@ side:
     children:
       - title: "Bluespec"
         url: /language/bluespec/
+      - title: "Programming Language"
+        url: /language/programming_language"
       - title: "Python"
         url: /language/python/
