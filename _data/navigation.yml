@@ -21,6 +21,8 @@ side:
     children:
       - title: "Django"
         url: /backend/django/
+      - title: "Spring"
+        url: /backend/spring/
   - title: "Database"
     url: /database/
     children:
