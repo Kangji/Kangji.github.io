@@ -40,3 +40,7 @@ CPython은 이런 문제를 해결하기 위해 python interpreter 자체가 loc
 이 lock이 바로 **GIL**이다.
 GIL의 문제점은 multicore 환경에서 발생하는데, core가 여러 개여도 GIL 때문에 한 번에 한 thread만 수행될 수 있어서 성능 측면에서 큰 손해이다.
 하지만 CPU bounded program이 아니라면 체감상 차이는 크지 않다.
+
+<br>
+
+모든 글: [Python](/language/python/) [Language](/language/)

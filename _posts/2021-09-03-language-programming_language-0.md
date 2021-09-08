@@ -87,3 +87,7 @@ JVM은 대표적인 인터프리터로, bytecode를 JVM specification에 맞게 
 Bytecode는 machine code처럼 생겼으나, architecture에 independent해서 portability가 큰 장점이다.
 CPU가 기계어를 실행하는 것처럼 interpreter가 bytecode를 실행한다.
 Java 뿐만 아니라, Scala 등 다양한 언어들이 Java bytecode로 컴파일될 수 있도록 설계되어 있다.
+
+<br>
+
+모든 글: [Programming Language](/language/programming Language/) [Language](/language/)

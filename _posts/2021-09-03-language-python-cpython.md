@@ -23,3 +23,7 @@ CPython은 C언어로 쓰여졌는데, 이 때문에 Python이 C로 구현됐다
 CPython은 Java 프로그램의 실행과정과 유사하게 동작한다.
 CPython은 compilation과 interpretation을 모두 하는데, Python 코드를 bytecode로 compile하고 나서 이를 실행(interpretation)하기 때문이다.
 `.pyc` 파일들이 compile된 bytecode들이다.
+
+<br>
+
+모든 글: [Python](/language/python/) [Language](/language/)
