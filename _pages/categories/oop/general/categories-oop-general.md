@@ -10,5 +10,5 @@ sidebar:
 ---
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-{% assign posts = site.categories.['General OOP'] %}
+{% assign posts = site.categories['General OOP'] %}
 {% for post in posts %} {% include archive-single.html type=entries_layout %} {% endfor %}
