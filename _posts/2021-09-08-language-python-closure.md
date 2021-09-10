@@ -47,7 +47,7 @@ Closure에서 참조하는 변수들만 기억하고, 이를 **free variable**�
 
 ## Usage of Closure
 
-### Wrapping Function
+### Wrapper
 
 ```python
 def customize(func):

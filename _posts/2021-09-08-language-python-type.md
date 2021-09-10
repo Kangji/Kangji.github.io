@@ -136,11 +136,17 @@ Set이라고 불리는 *type object*들은 **finite unordered set of unique, imm
 불변인 점을 제외하면 `set` object와 거의 일치한다.
 심지어 hashable이기 때문에 dictionary key로도 사용 가능하다.
 
-## dict
+## Mapping Types
+
+### dict
 
 `key: value` pair를 담고 있는 object를 나타내는 *type object*이다.
 key는 immutable object만 사용할 수 있고, key의 검색은 hash값을 사용하기 때문에 O(1)이다.
 가변이고, pair가 들어온 순서를 보존한다.
+
+### mappingproxy
+
+`mappingproxy` type은 `__setattr__`이 없는 것을 제외하고 `dict` type과 동일하다.
 
 ## Callable Types
 
@@ -211,7 +217,7 @@ Object의 writable attribute들을 dictionary로 저장한다.
 
 ### method
 
-`method` object는 모든 **instance method**와 **[class method](/language/python/class_static_instance_methods/)**들의 type이다.
+`method` object는 모든 **instance method**와 **[class method](/language/python/class_static_instance_method/)**들의 type이다.
 Instance method는 class instance의 method이다.
 
 ```python
@@ -256,7 +262,7 @@ Class instance가 생성될 때 `Temp` object에 접근해서 attribute들 중�
 `method` type인 object에서 `function` type인 object들의 special attribute들도 대부분 지원하는데,
 거의 전부가 다 단순히 `function` type인 object들의 special attribute를 그대로 가리키고 있다.
 
-`method` object는 독특한 형태의 `__call__()`을 가지고 있다.
+`method` object의 `__call__()`은 wrapper라고 볼 수 있다.
 `method` object가 가지고 있는 function의 `__call__()`을 호출하면서, 첫 번째 인자로 `__self__`를 넘긴다.
 그래서 `x.foo()`를 호출하는 것과 `Temp.foo(x)`를 호출하는 것은 사실상 동일하다.
 그래서 python은 관습적으로 코드를 작성할 때 class 안에서 function의 첫 번째 argument를 `self`라고 하는 것이다.
@@ -324,6 +330,16 @@ Exception이 발생했을 때 stack trace를 나타내는 object들의 type이 `
 
 `1:2:3` 처럼 배열의 indexing에 사용되는 object들의 type이 `slice` object이다.
 `start`, `step`, `stop`으로 이루어져 있다.
+
+### method-wrapper
+
+```python
+>>> type(object.__call__)
+<class 'method-wrapper'>
+```
+
+이게 뭘까?? `method-wrapper`type은 CPython 내부적으로 사용하는 type으로, C로 구현된 함수를 wrapping한다.
+`method` type과의 차이는 wrapping하는 대상이 파이썬 함수인지 C 함수인지이다. Wrapping 방식은 똑같다.
 
 <br>
 

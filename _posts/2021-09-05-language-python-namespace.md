@@ -12,7 +12,7 @@ last_modified_at: 2021-09-05T16:39:44+09:00
 ## Namespace란??
 
 Namespace는 파이썬뿐만 아니라 C++ 등에서도 존재하는 개념으로, 변수 이름 String과 변수가 referencing하는 인스턴스를 각각 key, value로 저장한 dictionary이다.
-scope마다 namespace가 정의되어 있으며, 변수를 선언/대입/참조할 때마다 namespace를 확인하여 참조하게 된다.
+모든 scope마다 namespace가 정의되어 있으며, 변수를 선언/대입/참조할 때마다 namespace를 확인하여 참조하게 된다.
 값을 참조만 할 때는, 현재 scope의 namespace 뿐만 아니라 외부 scope의 namespace까지도 참조할 수 있다.
 
 ### Namespace 출력하기
