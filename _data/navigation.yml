@@ -44,3 +44,7 @@ side:
     children:
       - title: "General OOP"
         url: /oop/general/
+      - title: "OOP Pattern"
+        url: /oop/pattern/
+      - title: "OOP Principle"
+        url: /oop/principle/
