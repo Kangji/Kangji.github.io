@@ -28,6 +28,8 @@ side:
     children:
       - title: "SQL"
         url: /database/sql/
+  - title: "Dev"
+    url: /dev/
   - title: "Github Blog"
     url: /blog/
   - title: "Language"
