@@ -11,7 +11,7 @@ exemptLabels:
 staleLabel: "Status: Stale"
 # Comment to post when marking an issue as stale. Set to `false` to disable
 markComment: |
-  TestTestTestThis issue has been automatically marked as stale because it has not had recent activity.
+  This issue has been automatically marked as stale because it has not had recent activity.
 
   If this is a **bug** and you can still reproduce this error on the `master` branch, please reply with any additional information you have about it in order to keep the issue open.
 
