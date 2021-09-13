@@ -1,26 +1,11 @@
-<!--
-  Thanks for creating a Pull Request! Before you submit, please make sure
-  you've done the following:
+**Major changes:**
+- 
 
-  - Read the contributing document at https://github.com/mmistakes/minimal-mistakes#contributing
--->
+**Minor changes to note:**
+- 
 
-<!--
-  Choose one of the following by uncommenting it:
--->
+**Tests for the changes:**
+- 
 
-<!-- This is a bug fix. -->
-<!-- This is an enhancement or feature. -->
-<!-- This is a documentation change. -->
-
-## Summary
-
-<!--
-  Provide a description of what your pull request changes.
--->
-
-## Context
-
-<!--
-  Is this related to any GitHub issue(s)?
--->
+**Other comments:**
+- 
