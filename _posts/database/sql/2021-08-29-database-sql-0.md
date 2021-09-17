@@ -25,7 +25,7 @@ DB 중에서도 OOP 개념을 사용하여 table을 정의하고, foreign key를
 ### RDB의 구조
 
 하나의 데이터베이스는 여러 개의 table을 가지고, 각 table은 OOP에서의 객체와 유사하다.
-![Table](/assets/images/database/table.png)
+![Table](/assets/images/database/sql/table.png)
 Table의 맨 첫 row가 table의 field들을 담고 있는데, class의 field와 상당히 유사하다.
 각 field는 `int unsigned`, `char(64)`, `varchar(20)` 등의 type이 있고, Nullable, default 등을 설정할 수도 있다.
 그 다음 두 번째 row부터는 한 row가 하나의 record인데, table이 객체라면 record는 인스턴스이다.

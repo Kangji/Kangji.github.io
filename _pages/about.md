@@ -13,7 +13,7 @@ sidebar:
 
 ## General
 
-<img src="/assets/images/my_photo.jpeg/">
+<img src="/assets/images/my_photo.jpeg">
 
 Ji Ho Kang
 
