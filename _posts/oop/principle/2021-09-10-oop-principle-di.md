@@ -43,7 +43,7 @@ class Bar {
 
 ## Dependency Injection
 
-이런 일을 방지하기 위해서 우리는 객체 간의 종속성을 깨주어야 하고, 좋은 방법이 DI라고 불리는 **Dependency Injection**이다. SOLID 원칙의 D에 해당한다.
+이런 일을 방지하기 위해서 우리는 객체 간의 종속성을 깨주어야 하고, 좋은 방법이 DI라고 불리는 **Dependency Injection**이다.
 DI는 말 그대로, 한 객체에 의존적인 객체를 외부에서 만들어서 주입해줌으로써 두 객체간의 의존성을 제거하자는 것이다.
 
 DI를 만족하는 `Foo` class는 다음과 같아진다.
