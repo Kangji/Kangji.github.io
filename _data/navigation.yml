@@ -30,6 +30,11 @@ side:
         url: /database/sql/
   - title: "Dev"
     url: /dev/
+    children:
+      - title: "Refactoring"
+        url: /dev/refactoring/
+      - title: "Test"
+        url: /dev/test/
   - title: "Github Blog"
     url: /blog/
   - title: "Language"
