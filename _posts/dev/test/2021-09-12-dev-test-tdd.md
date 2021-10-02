@@ -3,7 +3,8 @@ title: "TDD"
 layout: single
 categories:
   - Dev
-permalink: /dev/tdd/
+  - Test
+permalink: /dev/test/tdd/
 last_modified_at: 2021-09-12T05:49:50+09:00
 
 ---
