@@ -23,6 +23,11 @@ side:
         url: /backend/django/
       - title: "Spring"
         url: /backend/spring/
+  - title: "Computing Systems"
+    url: /systems/
+    children:
+      - title: "History"
+        url: /systems/history/
   - title: "Database"
     url: /database/
     children:
