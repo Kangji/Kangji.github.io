@@ -26,17 +26,18 @@ Republic of Korea
 |Period|School|GPA|
 |------|------|---|
 |Mar. 2014 <br> ~ Feb. 2017|Seoul Science High School|4.2 / 4.3|
-|Mar. 2017 <br> ~ Present|Seoul National University <br> Department of Computer Science & Engineering <br> Bachelor Student|3.99 / 4.3|
+|Mar. 2017 <br> ~ Present|Seoul National University <br> Department of Computer Science & Engineering <br> Bachelor Student|4.0 / 4.3|
 
 ## Interests
 
 * Data Processing
 * Quant Trading
-* Computing Systems
+* Computing Systems & Platform
 * Backend Dev.
 
 ## Experiences
 
+* Winter Intern at Observability Platform Team, Naver Corporation, Republic of Korea (Dec. 2021 ~ Feb. 2022)
 * Research Intern at Software Platform Lab, Department of Computer Science and Engineering, Seoul National University, Republic of Korea (Feb. 2021 ~ Aug. 2021)
 * KATUSA Translator & IT Technician & Intel Analyst at 8th Army 2502nd DLD, Cp Henry, Daegu, Republic of Korea (Jul. 2019 ~ Dec. 2020)
 * Research Student at Department of Information Communication Engineering, Dongguk University, Republic of Korea (Mar. 2015 ~ Dec. 2015)
@@ -59,8 +60,8 @@ Republic of Korea
 
 ## Skills and Techniques
 
-* Basic Coding Skills (C, Python, JAVA, etc.)
+* Knowledge of Programming Languages (C, Python, JAVA, etc.)
 * Knowledge of Algorithm (related to PS)
-* Knowledge of Data Processing Systems (Apache Beam, Spark, Nemo, Streaming Processing)
-* Knowledge of Operating Systems
-* Knowledge of OOP (JAVA & Python) / FP
+* Knowledge of Data Processing Systems
+* Knowledge of Operating Systems (Linux Kernel)
+* Knowledge of OOP / FP / TDD / Refactoring
