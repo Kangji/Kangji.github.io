@@ -2,9 +2,9 @@
 title: "MVC"
 layout: single
 categories:
-  - OOP
-  - OOP Pattern
-permalink: /oop/pattern/mvc/
+  - Backend
+  - Spring
+permalink: /backend/spring/mvc/
 last_modified_at: 2021-09-11T04:48:50+09:00
 
 ---
@@ -40,4 +40,4 @@ MVC를 구현하는 방식에는 model 1과 model 2가 있는데, 차이는 mode
 
 <br>
 
-모든 글: [OOP Pattern](/oop/pattern/) [OOP](/oop/)
+모든 글: [Spring](/backend/spring/) [Backend](/backend/)
