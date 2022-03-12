@@ -25,7 +25,7 @@ Republic of Korea
 
 |Period|School|GPA|
 |------|------|---|
-|Mar. 2014 <br> ~ Feb. 2017|Seoul Science High School|4.2 / 4.3|
+|Feb. 2014 <br> ~ Feb. 2017|Seoul Science High School|4.2 / 4.3|
 |Mar. 2017 <br> ~ Present|Seoul National University <br> Department of Computer Science & Engineering <br> Bachelor Student|4.0 / 4.3|
 
 ## Interests
@@ -37,7 +37,9 @@ Republic of Korea
 
 ## Experiences
 
-* Winter Intern at Observability Platform Team, Naver Corporation, Republic of Korea (Dec. 2021 ~ Feb. 2022)
+* Intern at Infrastructure Team, Hyperithm Co., Ltd., Republic of Korea (Mar. 2022 ~ Present)
+* Winter Intern at Observability Platform Team, Naver Corp., Republic of Korea (Dec. 2021 ~ Feb. 2022)
+* GSOC 2021 Alumni, Google Summer of Code (Jun. 2021 ~ Aug. 2021)
 * Research Intern at Software Platform Lab, Department of Computer Science and Engineering, Seoul National University, Republic of Korea (Feb. 2021 ~ Aug. 2021)
 * KATUSA Translator & IT Technician & Intel Analyst at 8th Army 2502nd DLD, Cp Henry, Daegu, Republic of Korea (Jul. 2019 ~ Dec. 2020)
 * Research Student at Department of Information Communication Engineering, Dongguk University, Republic of Korea (Mar. 2015 ~ Dec. 2015)
