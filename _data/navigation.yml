@@ -28,6 +28,8 @@ side:
     children:
       - title: "History"
         url: /systems/history/
+      - title: "I/O"
+        url: /systems/io/
   - title: "Database"
     url: /database/
     children:
@@ -60,3 +62,18 @@ side:
         url: /oop/pattern/
       - title: "OOP Principle"
         url: /oop/principle/
+  - title: "Operating Systems"
+    url: /os/
+    children:
+      - title: "Concurrency"
+        url: /os/concurrency/
+      - title: "File Systems"
+        url: /os/fs/
+      - title: "Kernel"
+        url: /os/kernel/
+      - title: "Memory Management"
+        url: /os/memory/
+      - title: "Scheduling"
+        url: /os/scheduling/
+      - title: "Synchronization"
+        url: /os/synchronization/

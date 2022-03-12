@@ -1,7 +1,7 @@
 ---
-title: "History"
+title: "Operating Systems"
 layout: archive
-permalink: /systems/history/
+permalink: /os/
 author_profile: true
 sidebar:
   title: "All Posts"
@@ -10,5 +10,5 @@ sidebar:
 ---
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-{% assign posts = site.categories.history %}
+{% assign posts = site.categories['Operating Systems'] %}
 {% for post in posts %} {% include archive-single.html type=entries_layout %} {% endfor %}
