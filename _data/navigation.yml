@@ -1,4 +1,3 @@
-# main links
 main:
   - title: "Home"
     url: /
@@ -8,13 +7,6 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-
 side:
   - title: "Backend"
     url: /backend/
