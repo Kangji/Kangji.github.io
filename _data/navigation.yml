@@ -8,7 +8,10 @@ main:
 - title: Tags
   url: /tags/
 side:
-- title: Coq
+- children:
+  - title: Software Foundations
+    url: /coq/software_foundations/
+  title: Coq
   url: /coq/
 - children:
   - title: Bluespec
