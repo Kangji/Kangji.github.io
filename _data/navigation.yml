@@ -8,6 +8,8 @@ main:
 - title: Tags
   url: /tags/
 side:
+- title: Coq
+  url: /coq/
 - children:
   - title: Bluespec
     url: /verilog/bluespec/
