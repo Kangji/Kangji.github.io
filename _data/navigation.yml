@@ -7,3 +7,9 @@ main:
   url: /categories/
 - title: Tags
   url: /tags/
+side:
+- children:
+  - title: Bluespec
+    url: /verilog/bluespec/
+  title: Verilog
+  url: /verilog/
