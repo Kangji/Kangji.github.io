@@ -16,6 +16,11 @@ side:
 - title: Database
   url: /database/
 - children:
+  - title: Git
+    url: /dev/git/
+  title: Dev
+  url: /dev/
+- children:
   - title: Hardware
     url: /systems/hardware/
   - title: History
