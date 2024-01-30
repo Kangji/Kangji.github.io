@@ -5,7 +5,7 @@ categories:
   - Systems
   - Kernel
 tags:
-  - Os
+  - OS
 permalink: /systems/kernel/51/
 last_modified_at: 2024-01-30T14:38:10
 

@@ -4,8 +4,6 @@ layout: single
 categories:
   - Dev
   - Git
-tags:
-  - Version Control
 permalink: /dev/git/53/
 last_modified_at: 2024-01-30T14:43:37
 

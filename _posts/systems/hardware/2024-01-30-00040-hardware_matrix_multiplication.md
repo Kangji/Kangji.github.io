@@ -6,7 +6,6 @@ categories:
   - Hardware
 tags:
   - Hardware
-  - Hardware Accelerator
 permalink: /systems/hardware/40/
 last_modified_at: 2024-01-30T13:54:21
 
