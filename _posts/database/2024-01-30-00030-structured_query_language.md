@@ -4,7 +4,6 @@ layout: single
 categories:
   - Database
 tags:
-  - Database
   - Grammar
 permalink: /database/30/
 last_modified_at: 2024-01-30T13:00:33

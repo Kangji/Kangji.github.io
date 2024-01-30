@@ -5,7 +5,6 @@ categories:
   - Verilog
 tags:
   - Grammar
-  - Verilog
 permalink: /verilog/4/
 last_modified_at: 2024-01-29T18:22:58
 

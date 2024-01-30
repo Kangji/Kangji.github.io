@@ -16,6 +16,15 @@ side:
 - title: Database
   url: /database/
 - children:
+  - title: Hardware
+    url: /systems/hardware/
+  - title: History
+    url: /systems/history/
+  - title: Kernel
+    url: /systems/kernel/
+  title: Systems
+  url: /systems/
+- children:
   - title: Bluespec
     url: /verilog/bluespec/
   title: Verilog

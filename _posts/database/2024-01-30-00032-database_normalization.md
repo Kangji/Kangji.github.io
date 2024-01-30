@@ -3,8 +3,6 @@ title: Database Normalization
 layout: single
 categories:
   - Database
-tags:
-  - Database
 permalink: /database/32/
 last_modified_at: 2024-01-30T13:06:19
 

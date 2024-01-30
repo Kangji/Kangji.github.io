@@ -3,8 +3,6 @@ title: Database Design
 layout: single
 categories:
   - Database
-tags:
-  - Database
 permalink: /database/31/
 last_modified_at: 2024-01-30T13:04:41
 

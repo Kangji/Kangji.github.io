@@ -3,8 +3,6 @@ title: Database Concurrency Control
 layout: single
 categories:
   - Database
-tags:
-  - Database
 permalink: /database/38/
 last_modified_at: 2024-01-30T13:47:51
 

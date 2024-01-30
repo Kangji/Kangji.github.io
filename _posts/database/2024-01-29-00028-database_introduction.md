@@ -3,8 +3,6 @@ title: Database Introduction
 layout: single
 categories:
   - Database
-tags:
-  - Database
 permalink: /database/28/
 last_modified_at: 2024-01-29T20:19:35
 

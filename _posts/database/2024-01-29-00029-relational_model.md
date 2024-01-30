@@ -3,8 +3,6 @@ title: Relational Model
 layout: single
 categories:
   - Database
-tags:
-  - Database
 permalink: /database/29/
 last_modified_at: 2024-01-29T20:33:19
 

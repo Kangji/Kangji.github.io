@@ -3,8 +3,6 @@ title: Database Query Processing
 layout: single
 categories:
   - Database
-tags:
-  - Database
 permalink: /database/36/
 last_modified_at: 2024-01-30T13:43:50
 

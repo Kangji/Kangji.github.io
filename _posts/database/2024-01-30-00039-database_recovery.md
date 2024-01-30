@@ -3,8 +3,6 @@ title: Database Recovery
 layout: single
 categories:
   - Database
-tags:
-  - Database
 permalink: /database/39/
 last_modified_at: 2024-01-30T13:48:34
 

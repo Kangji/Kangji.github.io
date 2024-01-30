@@ -3,8 +3,6 @@ title: Data Storage Structure
 layout: single
 categories:
   - Database
-tags:
-  - Database
 permalink: /database/34/
 last_modified_at: 2024-01-30T13:41:38
 

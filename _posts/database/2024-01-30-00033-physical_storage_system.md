@@ -4,7 +4,6 @@ layout: single
 categories:
   - Database
 tags:
-  - Database
   - Hardware
 permalink: /database/33/
 last_modified_at: 2024-01-30T13:20:36
