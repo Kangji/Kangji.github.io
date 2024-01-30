@@ -13,6 +13,8 @@ side:
     url: /coq/software_foundations/
   title: Coq
   url: /coq/
+- title: Database
+  url: /database/
 - children:
   - title: Bluespec
     url: /verilog/bluespec/
