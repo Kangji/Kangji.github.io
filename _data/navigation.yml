@@ -22,6 +22,8 @@ side:
     url: /dev/process/
   - title: Quality
     url: /dev/quality/
+  - title: Test
+    url: /dev/test/
   title: Dev
   url: /dev/
 - children:
