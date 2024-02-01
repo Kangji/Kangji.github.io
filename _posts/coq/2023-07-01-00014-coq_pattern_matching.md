@@ -11,8 +11,6 @@ last_modified_at: 2024-01-29T18:58:02
 
 ---
 
-# Pattern Matching
-
 Inductive type을 constructor 별로 case analysis를 통해 destruct.
 각 pattern은 constructor여야 함.
 

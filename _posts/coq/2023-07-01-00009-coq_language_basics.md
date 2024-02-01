@@ -11,8 +11,6 @@ last_modified_at: 2024-01-29T18:52:32
 
 ---
 
-# Basic Notations and Conventions
-
 ## Lexical Conventions
 
 ### Blanks

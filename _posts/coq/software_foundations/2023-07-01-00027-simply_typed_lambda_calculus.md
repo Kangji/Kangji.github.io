@@ -12,8 +12,6 @@ last_modified_at: 2024-01-29T19:13:28
 
 ---
 
-# Simply Typed Lambda Calculus
-
 Lambda Calculus에서 term들은 base term들로부터 constructive하게 정의된다.
 특히, arrow type을 가지는, 함수에 해당하는 lambda term이 lambda calculus의 대표적인 특징이다.
 

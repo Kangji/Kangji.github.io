@@ -9,8 +9,6 @@ last_modified_at: 2024-01-30T14:47:20
 
 ---
 
-# Requirements Specification
-
 ## Types of Requirements
 
 - **Functional**: Input-Output behavior

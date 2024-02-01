@@ -10,7 +10,7 @@ last_modified_at: 2024-01-29T18:22:58
 
 ---
 
-# Synthesizable Code
+## Synthesizable Code
 
 - Modulus, exponent, arithmetic shift, case equality are non-synthesizable
 - Incomplete branches are non-synthesizable

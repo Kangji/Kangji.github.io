@@ -11,8 +11,6 @@ last_modified_at: 2024-01-29T19:01:23
 
 ---
 
-# Implicit Arguments
-
 An implicit argument of a function is an argument which can be inferred from contextual knowledge.
 There are different kinds of implicit arguments that can be considered implicit in different ways.
 There are also various commands to control the setting or the inference of implicit arguments.

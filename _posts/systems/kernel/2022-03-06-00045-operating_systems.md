@@ -11,8 +11,6 @@ last_modified_at: 2024-01-30T14:25:14
 
 ---
 
-# Operating Systems
-
 Software to manage hardware resources for users and applications.
 
 ## OS Role

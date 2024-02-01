@@ -1,5 +1,5 @@
 ---
-title: Software Foundations Logic
+title: Constructive Logic
 layout: single
 categories:
   - Coq
@@ -11,8 +11,6 @@ permalink: /coq/software_foundations/21/
 last_modified_at: 2024-01-29T19:08:56
 
 ---
-
-# Constructive Logic
 
 Classical logic에서는 어떤 명제를 증명하는 것이, 해당 명제의 진리값이 참임을 증명하는 것이다.
 이와 달리, constructive logic은 명제의 증명에 해당하는 무언가를 직접 제시하거나,

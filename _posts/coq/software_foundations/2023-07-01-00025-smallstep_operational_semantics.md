@@ -12,8 +12,6 @@ last_modified_at: 2024-01-29T19:11:51
 
 ---
 
-# Smallstep Operational Semantics
-
 지금까지 논한 programming language semantics는 big step,
 즉 어떤 state에서 프로그램 실행이 완료되면 어떤 state가 되는지였다.
 

@@ -9,8 +9,6 @@ last_modified_at: 2024-01-30T14:43:37
 
 ---
 
-# Branching Strategy
-
 ## Git Flow
 
 - **master**

@@ -12,8 +12,6 @@ last_modified_at: 2024-01-29T19:09:42
 
 ---
 
-# Inductively Defined Propositions
-
 Coq에서 proposition은 귀납적으로 정의된다.
 사실 모든 type은 귀납적으로 정의된다 (CIC).
 이 때 해당 inductive type이 하나의 annotation을 가지면 predicate or property,

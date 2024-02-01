@@ -8,8 +8,6 @@ last_modified_at: 2024-01-30T13:04:41
 
 ---
 
-# Database Design
-
 ## Database Design Phase
 
 * **Conceptual Design**

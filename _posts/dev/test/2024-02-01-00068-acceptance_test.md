@@ -9,9 +9,7 @@ last_modified_at: 2024-02-01T15:28:41
 
 ---
 
-# Acceptance Test
-
-- Final end-user testing in real-life scenario
+Final end-user testing in real-life scenario
 
 ## Types of Acceptance Test
 

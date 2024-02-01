@@ -9,9 +9,7 @@ last_modified_at: 2024-01-30T14:45:05
 
 ---
 
-# Software Development Life Cycle
-
-## 6 Phase
+## SDLC 6 Phase
 
 1. **Requirements** Specification
     - Market research
@@ -24,7 +22,7 @@ last_modified_at: 2024-01-30T14:45:05
 5. Deployment
 6. Maintenance
 
-# Software Process Model
+## Software Process Model
 
 * Abstract representation of development process
 * **What, when, how** to do in each phase

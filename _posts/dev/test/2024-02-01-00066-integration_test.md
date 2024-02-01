@@ -9,9 +9,7 @@ last_modified_at: 2024-02-01T15:25:08
 
 ---
 
-# Integration Test
-
-- How different part of app interact together
+How different part of app interact together
 
 ## Integration Test Approach
 

@@ -12,8 +12,6 @@ last_modified_at: 2024-01-29T19:10:41
 
 ---
 
-# Simple Imperative Program
-
 ## Expression & Evaluation
 
 어떤 값을 가지는 expression과 해당 expression의 값을 찾아내는 evaluation rule이 있을 때,

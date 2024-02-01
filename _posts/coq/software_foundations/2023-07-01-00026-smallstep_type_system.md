@@ -12,8 +12,6 @@ last_modified_at: 2024-01-29T19:13:04
 
 ---
 
-# Type System
-
 Smallstep Operational Semantics에서 term들에 type을 부여할 수 있다.
 허나, 반드시 모든 type을 가져야만 하는 건 아니다.
 

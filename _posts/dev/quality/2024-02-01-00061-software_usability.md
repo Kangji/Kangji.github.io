@@ -9,8 +9,6 @@ last_modified_at: 2024-02-01T15:13:58
 
 ---
 
-# Usability
-
 - Quality of user’s experience
 - Effectiveness, efficiency, overall satisfaction of user
 

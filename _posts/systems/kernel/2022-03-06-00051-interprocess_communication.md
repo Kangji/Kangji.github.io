@@ -11,8 +11,6 @@ last_modified_at: 2024-01-30T14:38:10
 
 ---
 
-# Interprocess Communication
-
 Process간 data를 주고받는 방법은 shared memory, pipe, UNIX domain socket 등이 있다.
 
 이 세 가지 방법은 모두 process 입장에서는 file abstraction으로 감싸져 있다.

@@ -9,8 +9,6 @@ last_modified_at: 2024-02-01T15:05:39
 
 ---
 
-# Software Quality
-
 - The degree to which software **meets specified requirements** and **user needs**
 - The degree to which software is **free of defects**
 - **External** representation

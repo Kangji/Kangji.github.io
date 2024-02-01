@@ -1,5 +1,5 @@
 ---
-title: Hardware Description Language
+title: Hardware Description Language (HDL)
 layout: single
 categories:
   - Verilog
@@ -10,9 +10,8 @@ last_modified_at: 2021-08-26T19:27:12+09:00
 
 ---
 
-# HDL이란??
-
-HDL은 "Hardware Description Language"의 약자로, 하드웨어의 동작을 소프트웨어적으로 기술하는데 사용되는 언어이다. 주로 하드웨어를 제작하기 전에 시뮬레이션을 통해 검증하기 위한 용도로 사용된다.
+HDL은 "Hardware Description Language"의 약자로, 하드웨어의 동작을 소프트웨어적으로 기술하는데 사용되는 언어이다.
+주로 하드웨어를 제작하기 전에 시뮬레이션을 통해 검증하기 위한 용도로 사용된다.
 
 ## HDL과 프로그래밍 언어와의 차이
 

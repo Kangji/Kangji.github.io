@@ -9,8 +9,6 @@ last_modified_at: 2024-02-01T15:17:03
 
 ---
 
-# Refactoring
-
 - Change internal structure without changing external behavior
 - TDD required - **Test Suite**
 

@@ -12,8 +12,6 @@ last_modified_at: 2024-01-29T19:07:30
 
 ---
 
-# Software Foundations
-
 The Software Foundations series is a broad introduction to the mathematical underpinnings of reliable software.
 
 The principal novelty of the series is that every detail is one hundred percent formalized and machine-checked:

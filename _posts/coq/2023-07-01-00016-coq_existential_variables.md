@@ -11,8 +11,6 @@ last_modified_at: 2024-01-29T19:00:40
 
 ---
 
-# Existential Variables
-
 Coq에서는 unknown subterm을 existential variable(줄여서 evar)로 표현할 수 있다.
 하지만 결국 unknown subterm은 받아들여지지 않기 때문에 실제 term으로 채워져야 한다.
 
