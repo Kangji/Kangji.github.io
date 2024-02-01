@@ -20,6 +20,8 @@ side:
     url: /dev/git/
   - title: Process
     url: /dev/process/
+  - title: Quality
+    url: /dev/quality/
   title: Dev
   url: /dev/
 - children:
