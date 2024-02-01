@@ -26,6 +26,8 @@ side:
     url: /dev/test/
   title: Dev
   url: /dev/
+- title: Oop
+  url: /oop/
 - children:
   - title: Hardware
     url: /systems/hardware/
