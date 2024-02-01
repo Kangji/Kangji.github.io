@@ -186,6 +186,7 @@ exclude:
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
   - /tools
+  - post
 keep_files:
   - .git
   - .svn
