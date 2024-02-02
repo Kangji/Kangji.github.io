@@ -31,6 +31,8 @@ side:
 - title: Oop
   url: /oop/
 - children:
+  - title: Concurrency
+    url: /systems/concurrency/
   - title: Hardware
     url: /systems/hardware/
   - title: History
