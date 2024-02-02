@@ -26,6 +26,8 @@ side:
     url: /dev/test/
   title: Dev
   url: /dev/
+- title: Language
+  url: /language/
 - title: Oop
   url: /oop/
 - children:
