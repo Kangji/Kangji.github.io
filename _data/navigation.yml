@@ -37,6 +37,8 @@ side:
     url: /systems/history/
   - title: Kernel
     url: /systems/kernel/
+  - title: Pipeline
+    url: /systems/pipeline/
   title: Systems
   url: /systems/
 - children:
