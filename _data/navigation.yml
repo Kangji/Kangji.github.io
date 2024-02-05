@@ -41,6 +41,8 @@ side:
     url: /systems/kernel/
   - title: Pipeline
     url: /systems/pipeline/
+  - title: Synchronization
+    url: /systems/synchronization/
   title: Systems
   url: /systems/
 - children:
