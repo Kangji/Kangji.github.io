@@ -39,6 +39,8 @@ side:
     url: /systems/history/
   - title: Kernel
     url: /systems/kernel/
+  - title: Memory Device
+    url: /systems/memory_device/
   - title: Pipeline
     url: /systems/pipeline/
   - title: Synchronization
