@@ -32,10 +32,10 @@ class CategoryManager:
         Post directory: category_one/category_two/category_three
         """
 
+        cls.__create_category_files(categories)
         dir = cls.postdir(categories)
         os.makedirs(dir)
         print(f'Create Directory {dir}')
-        cls.__create_category_files(categories)
 
     @classmethod
     def delete_category(cls, categories: List[str]) -> None:
