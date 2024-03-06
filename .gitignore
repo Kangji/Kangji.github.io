@@ -30,3 +30,6 @@ _site
 
 # Python Tools
 __pycache__
+
+# Others
+tmp
