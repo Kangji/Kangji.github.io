@@ -88,6 +88,8 @@ class CategoryManager:
         if len(categories) == 0:
             return
 
+        cls.__create_category_files(categories[:-1])
+
         filepath = cls.__filepath(categories)
         if os.path.exists(filepath) is False:
             title = cls.title(categories)
@@ -97,8 +99,6 @@ class CategoryManager:
             with open(filepath, 'w') as file:
                 file.write(content)
                 print(f'Create Category  {filepath}')
-
-        cls.__create_category_files(categories[:-1])
 
     @classmethod
     def __delete_category_files(cls, categories: List[str]) -> None:
