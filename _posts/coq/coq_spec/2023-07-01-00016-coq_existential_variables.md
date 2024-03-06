@@ -3,6 +3,7 @@ title: Coq Existential Variables
 layout: single
 categories:
   - Coq
+  - Coq Spec
 tags:
   - Language Theory
   - Grammar

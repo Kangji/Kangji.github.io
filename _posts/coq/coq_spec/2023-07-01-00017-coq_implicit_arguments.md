@@ -3,6 +3,7 @@ title: Coq Implicit Arguments
 layout: single
 categories:
   - Coq
+  - Coq Spec
 tags:
   - Language Theory
   - Grammar

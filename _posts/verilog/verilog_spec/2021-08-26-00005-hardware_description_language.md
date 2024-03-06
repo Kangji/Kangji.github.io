@@ -3,6 +3,7 @@ title: Hardware Description Language (HDL)
 layout: single
 categories:
   - Verilog
+  - Verilog Spec
 tags:
   - Hardware
 permalink: /verilog/5/

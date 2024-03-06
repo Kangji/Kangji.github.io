@@ -9,6 +9,8 @@ main:
   url: /tags/
 side:
 - children:
+  - title: Coq Spec
+    url: /coq/coq_spec/
   - title: Software Foundations
     url: /coq/software_foundations/
   title: Coq
@@ -52,5 +54,7 @@ side:
 - children:
   - title: Bluespec
     url: /verilog/bluespec/
+  - title: Verilog Spec
+    url: /verilog/verilog_spec/
   title: Verilog
   url: /verilog/

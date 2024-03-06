@@ -3,6 +3,7 @@ title: Coq Language Basics
 layout: single
 categories:
   - Coq
+  - Coq Spec
 tags:
   - Language Theory
   - Grammar

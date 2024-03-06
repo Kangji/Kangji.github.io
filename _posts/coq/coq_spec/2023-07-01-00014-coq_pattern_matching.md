@@ -3,6 +3,7 @@ title: Coq Pattern Matching
 layout: single
 categories:
   - Coq
+  - Coq Spec
 tags:
   - Language Theory
   - Grammar

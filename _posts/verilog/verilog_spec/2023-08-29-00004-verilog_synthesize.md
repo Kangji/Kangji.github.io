@@ -3,6 +3,7 @@ title: Verilog Synthesize
 layout: single
 categories:
   - Verilog
+  - Verilog Spec
 tags:
   - Grammar
 permalink: /verilog/4/
