@@ -33,6 +33,13 @@ side:
 - title: Oop
   url: /oop/
 - children:
+  - title: Python Runtime
+    url: /python/python_runtime/
+  - title: Python Spec
+    url: /python/python_spec/
+  title: Python
+  url: /python/
+- children:
   - title: Cache
     url: /systems/cache/
   - title: Concurrency
