@@ -44,6 +44,8 @@ side:
     url: /rust/async_rust/
   - title: Rust Spec
     url: /rust/rust_spec/
+  - title: Rust Web Programming
+    url: /rust/rust_web_programming/
   title: Rust
   url: /rust/
 - children:
