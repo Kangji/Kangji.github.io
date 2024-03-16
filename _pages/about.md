@@ -26,18 +26,20 @@ Republic of Korea
 |Period|School|GPA|
 |------|------|---|
 |Feb. 2014 <br> ~ Feb. 2017|Seoul Science High School|4.2 / 4.3|
-|Mar. 2017 <br> ~ Present|Seoul National University <br> Department of Computer Science & Engineering <br> Bachelor Student|4.0 / 4.3|
+|Mar. 2017 <br> ~ Aug. 2024|Seoul National University <br> Department of Computer Science & Engineering <br> Bachelor Student|4.01 / 4.3|
 
 ## Interests
 
-* Data Processing
-* Quant Trading
-* Computing Systems & Platform
+* Programming Language Theory
+* Computer Systems
 * Backend Dev.
+* DevOps
 
 ## Experiences
 
-* Intern at Infrastructure Team, Hyperithm Co., Ltd., Republic of Korea (Mar. 2022 ~ Present)
+* CTO at Eugene Crypto Solutions, Singappore (Apr. 2022 ~ Mar. 2024)
+* Intern at Software Engineering Team, Samsung Research, Samsung Electronics Co., Ltd., Republic of Korea (Jul. 2023 ~ Aug. 2023)
+* Intern at Infrastructure Team, Hyperithm Co., Ltd., Republic of Korea (Mar. 2022 ~ Jul. 2022)
 * Winter Intern at Observability Platform Team, Naver Corp., Republic of Korea (Dec. 2021 ~ Feb. 2022)
 * GSOC 2021 Alumni, Google Summer of Code (Jun. 2021 ~ Aug. 2021)
 * Research Intern at Software Platform Lab, Department of Computer Science and Engineering, Seoul National University, Republic of Korea (Feb. 2021 ~ Aug. 2021)
@@ -55,15 +57,21 @@ Republic of Korea
 * Korean Mathematical Olympiad(Middle School Div.) - Gold Award, Korean Mathematical Society (2013)
 * Korean Mathematical Olympiad(Middle School Div.) - Silver Award, Korean Mathematical Society (2012)
 
-## Projects
+## Projects & Development
 
-* WAN Streaming Optimization by Hierarchical Aggregation, Software Platform Lab, Seoul National University, Korea (Apr. 2021 ~ Aug.2021)
-* Steganography using Continuous Difference Expansion Technique, Department of Information Communication Engineering, Dongguk University, Korea (Mar. 2015 ~ Dec. 2015)
+* *Cryptocurrency Mid-Match System*, Eugene Crypto Solutions, Singappore (Apr. 2022 ~ Mar. 2023)
+* [*SNEK: SNU Language Exchange Platform*](https://github.com/Kangji/SWPP2023F), SNU Software Development Principles and Practice (2023 Fall) Team Project, Korea (Sep. 2023 ~ Dec. 2023)
+* *MLOps Pipeline*, Software Engineering Team, Samsung Research, Korea (Jul. 2023 ~ Aug. 2023)
+* [*Pinpoint APM*](https://github.com/pinpoint-apm/pinpoint), Observability Platform Team, Naver Corp., Korea (Dec. 2021 ~ Feb. 2022)
+* [*WAN Streaming Optimization by Hierarchical Aggregation*](/nemo-wan-hierarchical-aggregation), Software Platform Lab, Seoul National University, Korea (Apr. 2021 ~ Aug. 2021)
+* *Steganography using Continuous Difference Expansion Technique*, Department of Information Communication Engineering, Dongguk University, Korea (Mar. 2015 ~ Dec. 2015)
 
 ## Skills and Techniques
 
-* Knowledge of Programming Languages (C, Python, JAVA, etc.)
-* Knowledge of Algorithm (related to PS)
-* Knowledge of Data Processing Systems
-* Knowledge of Operating Systems (Linux Kernel)
-* Knowledge of OOP / FP / TDD / Refactoring
+* Knowledge of Programming Languages - Rust, C, Python, Java, etc.
+* Knowledge of Web Application Framework - FastAPI(Python), Spring(Java), Axum(Rust)
+* Knowledge of Database System - PostgreSQL, MySQL, Splunk
+* Knowledge of Ops - GitHub Actions, Docker, AWS(EC2, ECR, S3, VPC, RDS, Systems Manager, etc.)
+* Knowledge of Algorithm - related to PS
+* Knowledge of Computer Systems
+* Knowledge of Software Development - Git, OOP, FP, TDD, etc.
