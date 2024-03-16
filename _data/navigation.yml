@@ -40,6 +40,8 @@ side:
   title: Python
   url: /python/
 - children:
+  - title: Async Rust
+    url: /rust/async_rust/
   - title: Rust Spec
     url: /rust/rust_spec/
   title: Rust
