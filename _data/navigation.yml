@@ -33,6 +33,8 @@ side:
 - title: Oop
   url: /oop/
 - children:
+  - title: Fastapi
+    url: /python/fastapi/
   - title: Python Runtime
     url: /python/python_runtime/
   - title: Python Spec
