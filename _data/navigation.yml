@@ -39,6 +39,8 @@ side:
     url: /python/python_runtime/
   - title: Python Spec
     url: /python/python_spec/
+  - title: Sqlalchemy
+    url: /python/sqlalchemy/
   title: Python
   url: /python/
 - children:
