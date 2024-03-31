@@ -74,6 +74,8 @@ side:
     url: /systems/pipeline/
   - title: Synchronization
     url: /systems/synchronization/
+  - title: Virtual Memory
+    url: /systems/virtual_memory/
   title: Systems
   url: /systems/
 - children:

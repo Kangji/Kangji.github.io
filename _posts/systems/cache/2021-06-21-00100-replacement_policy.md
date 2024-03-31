@@ -4,8 +4,6 @@ layout: single
 categories:
   - Systems
   - Cache
-tags:
-  - Hardware
 permalink: /systems/cache/100/
 last_modified_at: 2024-03-06T19:36:15
 
