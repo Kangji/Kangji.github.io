@@ -42,6 +42,8 @@ side:
     url: /python/amaranth/
   - title: Fastapi
     url: /python/fastapi/
+  - title: Python Linter
+    url: /python/python_linter/
   - title: Python Runtime
     url: /python/python_runtime/
   - title: Python Spec
