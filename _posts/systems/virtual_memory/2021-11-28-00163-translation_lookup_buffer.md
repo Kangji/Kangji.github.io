@@ -6,7 +6,6 @@ categories:
   - Virtual Memory
 tags:
   - OS
-  - Hardware
 permalink: /systems/virtual_memory/163/
 last_modified_at: 2024-03-31T11:17:43
 
