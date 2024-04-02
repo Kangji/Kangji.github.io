@@ -38,6 +38,8 @@ side:
 - title: Oop
   url: /oop/
 - children:
+  - title: Amaranth
+    url: /python/amaranth/
   - title: Fastapi
     url: /python/fastapi/
   - title: Python Runtime

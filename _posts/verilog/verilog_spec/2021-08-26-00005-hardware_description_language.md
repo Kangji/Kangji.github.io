@@ -4,6 +4,8 @@ layout: single
 categories:
   - Verilog
   - Verilog Spec
+tags:
+  - HDL
 permalink: /verilog/5/
 last_modified_at: 2021-08-26T19:27:12+09:00
 
