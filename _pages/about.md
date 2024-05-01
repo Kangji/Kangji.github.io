@@ -52,8 +52,12 @@ Republic of Korea
 * *Cryptocurrency Mid-Match System*, Eugene Crypto Solutions, Singappore (Apr. 2022 ~ Mar. 2024)
   * Conceptualize, Design & Implement **High-Performance, In-Memory** System
 * *MLOps Pipeline*, Software Engineering Team, Samsung Research, Korea (Jul. 2023 ~ Aug. 2023)
+  * Design & Implement Data/Model Versioning Process
+  * Implement Pipeline Tracking Dashboard
 * [*Pinpoint APM*](https://github.com/pinpoint-apm/pinpoint), Observability Platform Team, Naver Corp., Korea (Dec. 2021 ~ Feb. 2022)
+  * Limit the Length of Callstack Trace - Especially **Async** Trace
 * [*WAN Streaming Optimization by Hierarchical Aggregation (GSOC 2021)*](/nemo-wan-hierarchical-aggregation), Software Platform Lab, Seoul National University, Korea (Apr. 2021 ~ Aug. 2021)
+  * Implement & Verify Hierarchical Aggregation Method
 * *Steganography using Continuous Difference Expansion Technique*, Department of Information Communication Engineering, Dongguk University, Korea (Mar. 2015 ~ Dec. 2015)
 
 ## Awards and Honors
