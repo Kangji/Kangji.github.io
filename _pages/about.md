@@ -79,4 +79,4 @@ Republic of Korea
 * Knowledge of OPS - GitHub Actions, Docker, MLFlow, AWS(EC2, ECR, S3, VPC, RDS, Systems Manager, etc.)
 * Knowledge of Algorithm - related to PS experience
 * Knowledge of Computer Systems & Hardware
-* Knowledge of Software Development - Git, OOP, FP, TDD, etc.
+* Knowledge of Software Development - Git, OOP, FP, TDD, MSA, etc.
