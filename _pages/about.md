@@ -62,9 +62,9 @@ Republic of Korea
 
 ## Awards and Honors
 
-* Presidential Science Scholarship, Korea Student Aid Foundation, Korea (Mar. 2017 ~ Sep. 2022)
-* K-StartUp Challenge - Final Round, Ministry of National Defense (Jun. 2020)
+* Presidential Science Scholarship (대통령과학장학금), Korea Student Aid Foundation, Korea (Mar. 2017 ~ Sep. 2022)
 * Korea Olympiad in Inforamtics - Silver Award(10th), National Inforamtion Society Agency, Korea (Oct. 2016)
+* Joint Presentation of Excellent R&E at the Science Gifted School - KAIST President's Award (과학영재학교 우수 R&E 공동발표회 KAIST 총장상), Korea Advanced Institute of Science and Technology, Korea (Jan. 2016)
 * Korean Chemistry Olympiad(Middle School Div.) - Gold Award, Korean Chemical Society (2013)
 * Korea Physics Olympiad(Middle School Div.) - 1st place, The Korean Physical Society (2013)
 * Korean Mathematical Olympiad(Middle School Div.) - Gold Award, Korean Mathematical Society (2013)
