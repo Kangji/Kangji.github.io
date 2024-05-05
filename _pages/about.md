@@ -53,18 +53,19 @@ Republic of Korea
   * Conceptualize, Design & Implement **High-Performance, In-Memory** System
 * *MLOps Pipeline*, Software Engineering Team, Samsung Research, Korea (Jul. 2023 ~ Aug. 2023)
   * Design & Implement Data/Model Versioning Process
-  * Implement Pipeline Tracking Dashboard
 * [*Pinpoint APM*](https://github.com/pinpoint-apm/pinpoint), Observability Platform Team, Naver Corp., Korea (Dec. 2021 ~ Feb. 2022)
   * Limit the Length of Callstack Trace - Especially **Async** Trace
 * [*WAN Streaming Optimization by Hierarchical Aggregation (GSOC 2021)*](/nemo-wan-hierarchical-aggregation), Software Platform Lab, Seoul National University, Korea (Apr. 2021 ~ Aug. 2021)
-  * Implement & Verify Hierarchical Aggregation Method
+  * Implement & Verify Hierarchical Aggregation Method in Distributed Data Stream Processing
 * *Steganography using Continuous Difference Expansion Technique*, Department of Information Communication Engineering, Dongguk University, Korea (Mar. 2015 ~ Dec. 2015)
+  * Extend Integer Difference Expansion Technique Proposed by Tian(2003)
+  * Selected as an Excellent R&E Project - Presented in Joint Presentation of Excellent R&E at the Science School for Gifted Students
 
 ## Awards and Honors
 
 * Presidential Science Scholarship (대통령과학장학금), Korea Student Aid Foundation, Korea (Mar. 2017 ~ Sep. 2022)
 * Korea Olympiad in Inforamtics - Silver Award(10th), National Inforamtion Society Agency, Korea (Oct. 2016)
-* Joint Presentation of Excellent R&E at the Science Gifted School - KAIST President's Award (과학영재학교 우수 R&E 공동발표회 KAIST 총장상), Korea Advanced Institute of Science and Technology, Korea (Jan. 2016)
+* Joint Presentation of Excellent R&E at the Science School for Gifted Students - KAIST President's Award (과학영재학교 우수 R&E 공동발표회 KAIST 총장상), Korea Advanced Institute of Science and Technology, Korea (Jan. 2016)
 * Korean Chemistry Olympiad(Middle School Div.) - Gold Award, Korean Chemical Society (2013)
 * Korea Physics Olympiad(Middle School Div.) - 1st place, The Korean Physical Society (2013)
 * Korean Mathematical Olympiad(Middle School Div.) - Gold Award, Korean Mathematical Society (2013)
