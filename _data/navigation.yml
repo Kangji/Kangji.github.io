@@ -50,6 +50,8 @@ side:
     url: /python/python_spec/
   - title: Sqlalchemy
     url: /python/sqlalchemy/
+  - title: Test
+    url: /python/test/
   title: Python
   url: /python/
 - children:
