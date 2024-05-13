@@ -32,4 +32,4 @@ _site
 __pycache__
 
 # Others
-tmp
+topics.yml
