@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Programming Study Note"
 title_separator          : "-"
-subtitle                 : "@Kangji" # site tagline that appears below site title in masthead
+subtitle                 : "Summarize, record, and archive everything studied so far." # site tagline that appears below site title in masthead
 name                     : "Jiho Kang"
 description              : "Study note that records everything lol"
 url                      : "https://Kangji.github.io"
